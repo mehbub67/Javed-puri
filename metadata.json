@@ -1,0 +1,7 @@
+{
+  "name": "Algapuri Run",
+  "description": "A high-octane 2D arcade game where you control a hero head to consume falling villains. Progress through 100+ levels of increasing difficulty, manage your lives, and aim for the high score!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
